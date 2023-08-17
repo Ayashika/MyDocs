@@ -28,5 +28,5 @@ It is a web-based collaborative document editing application, inspired by the fu
 - Database: MongoDB
 ## Contributors
 
-- [Keshav Gupta](https://github.com/keshav_guptaa) 
+- [Keshav Gupta](https://github.com/keshav-guptaa) 
 - [Ayashika Gupta](https://github.com/Ayashika)
